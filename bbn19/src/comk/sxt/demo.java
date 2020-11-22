@@ -5,5 +5,6 @@ public interface demo {
 	void nn();
 	void bb();
 	void dd();
+	void ee();
 	
 }
