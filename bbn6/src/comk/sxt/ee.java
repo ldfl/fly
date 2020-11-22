@@ -1,5 +1,5 @@
 package comk.sxt;
 
-public class hrhr {
+public class ee {
 
 }
