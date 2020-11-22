@@ -4,4 +4,5 @@ public interface demo {
 	void ab();
 	void nn();
 	void cc();
+	void dd();
 }
